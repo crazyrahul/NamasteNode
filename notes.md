@@ -1,4 +1,4 @@
-steps to to push the code to git 
+steps to to push the code to git :-
 
 1- stage the change :-
    A - git add . //it stage all the changes 
