@@ -1,17 +1,15 @@
 {
   "name": "namaste-node",
   "version": "1.0.0",
-  "description": "Node js course",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "nodejs"
-  ],
-  "author": "Rahul Kumar",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   }
 }

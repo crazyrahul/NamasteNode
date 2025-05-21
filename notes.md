@@ -2,7 +2,7 @@ steps to to push the code to git :-
 
 1- stage the change :-
    A - git add . //it stage all the changes 
-   B - git add <filename>  //// it stages the chaneg for perticular file 
+   B - git add <file name>  //// it stages the chaneg for perticular file 
 2 - commit the change :-
    git commit -m "commit message"
 
